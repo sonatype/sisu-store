@@ -14,9 +14,9 @@
   <name>Sisu :: Store</name>
 
   <scm>                                                                                                                                                             
-    <connection>scm:git:git@github.com/sonatype/sisu-assembler.git</connection>                                                                                   
-    <developerConnection>scm:git:ssh://git@github.com/sonatype/sisu-assembler.git</developerConnection>                                                           
-    <url>http://github.com/sonatype/sisu-assembler</url>                                                                                                          
+    <connection>scm:git:git@github.com/sonatype/sisu-store.git</connection>                                                                                   
+    <developerConnection>scm:git:ssh://git@github.com/sonatype/sisu-store.git</developerConnection>                                                           
+    <url>http://github.com/sonatype/sisu-store</url>                                                                                                          
   </scm>   
 
   <dependencies>
